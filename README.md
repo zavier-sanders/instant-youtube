@@ -2,6 +2,8 @@
 
 InstantYoutube is a simple Youtube search app built with ReactJS. Search results are loaded instantaneously.
 
+<a href="https://zavier-sanders.github.io/instant-youtube/"> Demo </a>
+
 ###Getting Started###
 
 Clone this repo, install dependencies, then start the gulp process with the following:
